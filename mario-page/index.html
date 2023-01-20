@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,32 +13,48 @@
     <link rel="shortcut icon" href="src/imagens/favicon.ico" type="image/x-icon">
 
     <title>Project Mario</title>
-    <link rel="stylesheet" href="style.css">
+    
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsivo.css">
 </head>
+
 <body>
     <div class="fundo-video">
         <video class="video" autoplay loop muted>
             <source src="src/video/video-mario.mp4" type="video/mp4">
-        </video>
+        </video> 
     </div>
     <header class="cabecalho">
         <a href="">
-            <img src="src/imagens/logo-chapeu-mario.png" alt="logo do mario">
+            <img class="logo" src="src/imagens/logo-chapeu-mario.png" alt="logo do mario">
         </a>
         <nav>
             <ul class="menu">
-                <li>Home</li>
-                <li>Details</li>
+                <li> <a href="#">Home</a></li>
+                <li> <a href="#">Details</a></li>
             </ul>
         </nav>
     </header>
     <main class="container">
         <div class="informacoes">
             <img class="imagem-titulo" src="src/imagens/titulo.png" alt="Título do Filme">
-            <p class="descricao">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vel, et dolor doloremque, unde, distinctio excepturi sunt itaque ipsum eius repellendus dicta modi in consectetur neque vero! Perferendis, enim voluptatibus.</p>
+            <p class="descricao">Mário é um encanador junto com Luigi seu irmão. Um dia, eles vão parar no reino dos
+                cogumelos, governado pela Princesa Peach, mas ameaçado pelo rei de Koopas, que faz de tudo para
+                conseguir reinar em todos os lugares.</p>
             <button class="botao-trailer">Veja o treiler</button>
         </div>
-        <img  class="mario" src="src/imagens/super-mario-chars.png" alt="Imagem do Mario">
+        <img class="mario" src="src/imagens/super-mario-chars.png" alt="Imagem do Mario">
+
+        <div class="modal">
+            <div class="conteudo-modal">
+                <span class="fechar-modal">X</span>
+                <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/Cb4WV4aXBpk" title="Trailer Oficial" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+            </div>
+        </div>
+
     </main>
 </body>
+
 </html>
