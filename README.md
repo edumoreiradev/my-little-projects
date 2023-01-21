@@ -3,7 +3,7 @@
  
  <div>
  <h2>coffee page: ☕</h2>
- <p>Pagina estática com cardápio de produtos e preços com HTML e CSS. <br><a href=" https://edumoreiradev.github.io/my-projects/coffee-page/coffee.html ">Confira o projeto</a></p>
+ <p>Pagina estática com cardápio de produtos e preços com HTML e CSS. <br><a href="https://edumoreiradev.github.io/my-projects/coffee-page/coffee.html">Confira o projeto</a></p>
  </div>
  
   <div>
