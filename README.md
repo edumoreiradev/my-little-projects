@@ -8,10 +8,10 @@
  
   <div>
  <h2>Analisador Numério: ⚙️</h2>
- <p>Pagina que analisa os valores fornecidos com JavaScript a ela e te da informação deles em conjunto, como média, soma, maior valor etc. <br><a href="https://edumoreiradev.github.io/my-projects/analisador-numerico-js/modelo.html">Confira a pagina</a></p>
+ <p>Pagina que analisa os valores fornecidos com JavaScript a ela e te da informação deles em conjunto, como média, soma, maior valor etc. <br><a href="https://edumoreiradev.github.io/my-projects/analisador-numerico-js/modelo.html">Confira o projeto</a></p>
  </div>
  
  <div>
  <h2>Hora Js ⏰</h2>
- <p>Site que te mostra horas mas muda seu tema e ambiente de acordo com a hora do usário.<br><a href="https://edumoreiradev.github.io/my-projects/hour-js/modelo/index.html">Confira a pagina</a></p>
+ <p>Site que te mostra horas mas muda seu tema e ambiente de acordo com a hora do usário.<br><a href="https://edumoreiradev.github.io/my-projects/hour-js/modelo/index.html">Confira o projeto</a></p>
  </div>
