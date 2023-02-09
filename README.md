@@ -13,7 +13,7 @@
  
  <div>
  <h2>Hora Js ⏰</h2>
- <p>Site que te mostra horas mas muda seu tema e ambiente de acordo com a hora do usário.<br><a href="https://edumoreiradev.github.io/my-projects/hour-js/modelo/index.html">Confira o projeto</a></p>
+ <p>Site que te mostra horas mas muda seu tema e ambiente de acordo com a hora do usuário.<br><a href="https://edumoreiradev.github.io/my-projects/hour-js/modelo/index.html">Confira o projeto</a></p>
  </div>
 
 <div>
